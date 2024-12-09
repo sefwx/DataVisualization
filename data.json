@@ -1,0 +1,9 @@
+{
+  "milks": [
+    { "type": "Dairy Milk", "value": 100 },
+    { "type": "Oat Milk", "value": 15 },
+    { "type": "Soy Milk", "value": 13 },
+    { "type": "Almond Milk", "value": 18 },
+    { "type": "Rice Milk", "value": 17 }
+  ]
+}
